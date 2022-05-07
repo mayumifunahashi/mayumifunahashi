@@ -4,7 +4,7 @@
 - 🔭 Estou estudado para trabalhar com Front-end 
 - 🌱 Atualmente estou praticando HTML, CSS e JavaScript
 - 📫 Meu email para contato é mayumi_funahashi@hotmail.com
-- 😄 Pronome:Ela/dela
+- 😄 Pronome: Ela/dela
 
 <div align="center">
   <a href="https://github.com/mayumifunahashi">
